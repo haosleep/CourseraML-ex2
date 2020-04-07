@@ -9,7 +9,7 @@ ex2_reg.m---------------第二項作業內容<br>
 ex2data1.txt------------訓練資料(ex2.m用)<br>
 ex2data2.txt------------訓練資料(ex2_reg.m用)<br>
 mapFeature.m------------特徵映射<br>
-plotData.m--------------繪製二維圖指令練習<br>
+plotData.m-----------------繪製二維圖指令練習<br>
 plotDecisionBoundary.m---在二維圖上繪製決策邊界<br>
 predict.m-----------------預測結果準確度判斷用<br>
 sigmoid.m-----------------邏輯函數<br>
